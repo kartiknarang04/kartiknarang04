@@ -21,6 +21,6 @@
 
 ### Let's Connect!
 - 📫 Feel free to reach out to me via email at [knarang29@outlook.com]('knarang29@outlook.com') to discuss any AI-related ideas or collaboration opportunities.
-- 💼 Let's connect on LinkedIn: [linkedin.com/in/kartiknarang29](www.linkedin.com/in/kartiknarang29')
+- 💼 Let's connect on LinkedIn: [www.linkedin.com/in/kartiknarang29]('www.linkedin.com/in/kartiknarang29')
 
 ### Join me on this AI adventure, and together, we can shape the future with intelligent machines! 🤝
