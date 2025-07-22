@@ -1,26 +1,79 @@
-## Hi there! 👋 I'm Kartik Narang, a passionate AI and ML enthusiast.
+#👋 Hey there! I'm Kartik Narang
 
-### About Me
-- 🌱 Currently, I'm on an exciting journey of learning and exploring the fascinating realms of Artificial Intelligence and Machine Learning.
-- 🔭 My curiosity drives me to stay up-to-date with the latest advancements in AI research and technology.
-- 👯 I believe in the power of collaboration and I'm always open to teaming up on AI and ML projects.
+### 🧠 AI/ML Developer | 💡 RAG Enthusiast | 📊 Data Science Practitioner
 
-### Areas of Interest
-- 🤖 I'm particularly interested in Natural Language Processing (NLP) and Computer Vision applications.
-- 🎓 I'm constantly expanding my knowledge in areas like Deep Learning, Neural Networks, and Reinforcement Learning.
-- 📊 Exploring the potential of AI in data analysis and predictive modeling also excites me.
+I'm a passionate developer exploring the evolving world of Artificial Intelligence and Machine Learning, driven by curiosity and a strong desire to build real-world solutions with impact. From building smart document summarizers to detecting climate anomalies, I love turning ideas into intelligent systems.
 
-### My GitHub Activity
-- 🚀 You'll find various AI and ML projects on my GitHub showcasing my passion for experimenting and implementing algorithms.
-- 📚 I enjoy sharing my knowledge through code examples, tutorials, and research-oriented projects.
+---
 
-### Languages and Tools
-- 💻 Python is my primary language for AI and ML development, and I'm proficient in libraries like TensorFlow and PyTorch.
-- 📈 I'm familiar with data manipulation and analysis using pandas, NumPy, and scikit-learn.
-- 📊 I also explore the world of data visualization with matplotlib and seaborn.
+## 💼 Experience
 
-### Let's Connect!
-- 📫 Feel free to reach out to me via email at [knarang29@outlook.com]('knarang29@outlook.com') to discuss any AI-related ideas or collaboration opportunities.
-- 💼 Let's connect on LinkedIn: [www.linkedin.com/in/kartiknarang29]('www.linkedin.com/in/kartiknarang29')
+### 🧠 HAIVE.Tech — AI/ML Intern
+- Developed end-to-end LLM pipelines for RAG and document summarization
+- Created APIs for local inference and integrated Groq/OpenAI for efficient inference
 
-### Join me on this AI adventure, and together, we can shape the future with intelligent machines! 🤝
+### 📱 Samsung Prism — Research Collaborator
+- Contributed to AI-driven smartphone optimization projects
+- Worked on models that improved predictive performance for embedded systems
+
+### 🌐 Talent Socio — ML Intern
+- Worked on recommendation systems and behavior-based user modeling
+- Contributed to the backend ML logic for a career-growth platform
+
+---
+
+## 🚀 Highlight Projects
+
+### 🧾 Legal Summarizer (Supreme Court PILs)
+- Built an AI system to read legal documents and generate crime breakdowns, relevant laws, and case insights
+- Integrated LLMs and RAG for deep legal context understanding
+
+### 👤 LinkedIn Personality Generator
+- Generates personality-driven LinkedIn summaries using LLM prompts and profile analysis
+- Great for students and professionals seeking impactful bios
+
+### 🎬 Movie Recommendation System
+- Built a collaborative-filtering-based engine to recommend movies based on user preferences
+- Added content-based filtering as fallback
+
+### 🧠 Custom RAG System
+- Developed a lightweight RAG pipeline using custom vector stores and local embedding models
+- Enhanced with reranking and summarization modules
+
+### 📰 AI News Digest Bot
+- Scrapes and summarizes trending AI news from TechCrunch, Analytics Insight, etc.
+- Uses Groq + OpenAI for fast summaries, rephrasing, and image generation
+- MongoDB integration for storage and dashboard compatibility
+
+---
+
+## 📚 Technical Skills
+
+### Languages & Libraries
+- **Python**, TensorFlow, PyTorch, pandas, NumPy, scikit-learn  
+- **NLP**: HuggingFace, Transformers, spaCy, NLTK  
+- **CV**: OpenCV, torchvision, PIL  
+
+### Tools & Frameworks
+- **Web Scraping**: Selenium, BeautifulSoup  
+- **LLM APIs**: OpenAI, Groq, HuggingFace Inference  
+- **Deployment**: Streamlit, Flask, FastAPI  
+- **Databases**: MongoDB, SQLite  
+
+---
+
+## 🎯 Currently Exploring
+
+- Context-aware RAG improvements  
+- Graph Neural Networks (GNNs)  
+- Reinforcement Learning  
+- AI for Climate Anomaly Detection  
+
+---
+
+## 📫 Let's Connect!
+
+- 📧 Email: **knarang29@outlook.com**  
+- 💼 LinkedIn: [linkedin.com/in/kartiknarang29](https://www.linkedin.com/in/kartiknarang29)
+
+---
